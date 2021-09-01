@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Wa Vepavidi Ya Neci Rube Lo Lupu	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>A WordPress Theme Preview</description>
+	<lastBuildDate>Sun, 29 Aug 2021 07:42:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		By: Chelsie Gauldin		</title>
+		<link>./../index.html#comment-29</link>
+
+		<dc:creator><![CDATA[Chelsie Gauldin]]></dc:creator>
+		<pubDate>Sun, 15 Aug 2021 11:40:03 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html#comment-29</guid>
+
+					<description><![CDATA[Parturient lacinia laoreet aliquam etiam dis turpis non vulputate, est elementum bibendum magnis lectus molestie himenaeos, luctus accumsan pulvinar felis nam ut congue.]]></description>
+			<content:encoded><![CDATA[<p>Parturient lacinia laoreet aliquam etiam dis turpis non vulputate, est elementum bibendum magnis lectus molestie himenaeos, luctus accumsan pulvinar felis nam ut congue.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Pauletta Alsandor		</title>
+		<link>./../index.html#comment-17</link>
+
+		<dc:creator><![CDATA[Pauletta Alsandor]]></dc:creator>
+		<pubDate>Fri, 16 Oct 2020 14:16:22 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html#comment-17</guid>
+
+					<description><![CDATA[Elit pharetra quis parturient lectus scelerisque sit est, ultrices natoque facilisi curae tempor.]]></description>
+			<content:encoded><![CDATA[<p>Elit pharetra quis parturient lectus scelerisque sit est, ultrices natoque facilisi curae tempor.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

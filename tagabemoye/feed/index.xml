@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Tagabemoye	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>A WordPress Theme Preview</description>
+	<lastBuildDate>Wed, 01 Sep 2021 20:09:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		By: Rozella Gessert		</title>
+		<link>./../index.html#comment-27</link>
+
+		<dc:creator><![CDATA[Rozella Gessert]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 14:46:28 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html#comment-27</guid>
+
+					<description><![CDATA[Malesuada ligula curae rhoncus semper donec nec, senectus sociosqu conubia facilisis taciti euismod, vulputate proin sem magnis morbi. Fermentum elementum rhoncus ipsum cras placerat sodales ut class, luctus mus dictumst ultrices gravida parturient at, laoreet proin nascetur senectus taciti tristique quis.]]></description>
+			<content:encoded><![CDATA[<p>Malesuada ligula curae rhoncus semper donec nec, senectus sociosqu conubia facilisis taciti euismod, vulputate proin sem magnis morbi. Fermentum elementum rhoncus ipsum cras placerat sodales ut class, luctus mus dictumst ultrices gravida parturient at, laoreet proin nascetur senectus taciti tristique quis.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Roxy Dalonzo		</title>
+		<link>./../index.html#comment-5</link>
+
+		<dc:creator><![CDATA[Roxy Dalonzo]]></dc:creator>
+		<pubDate>Sat, 12 Dec 2020 06:11:47 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html#comment-5</guid>
+
+					<description><![CDATA[Blandit purus primis felis aliquet sagittis porttitor cras vehicula, cursus magnis curae molestie platea netus mi erat, sem nostra vitae elementum fusce conubia eu. Est arcu metus faucibus nulla velit vitae sagittis, tellus enim augue egestas sit.]]></description>
+			<content:encoded><![CDATA[<p>Blandit purus primis felis aliquet sagittis porttitor cras vehicula, cursus magnis curae molestie platea netus mi erat, sem nostra vitae elementum fusce conubia eu. Est arcu metus faucibus nulla velit vitae sagittis, tellus enim augue egestas sit.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

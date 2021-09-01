@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Hoga Vunayu	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>A WordPress Theme Preview</description>
+	<lastBuildDate>Wed, 01 Sep 2021 20:11:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		By: Debera Peli		</title>
+		<link>./../index.html#comment-11</link>
+
+		<dc:creator><![CDATA[Debera Peli]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2020 19:33:20 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html#comment-11</guid>
+
+					<description><![CDATA[At litora montes metus dictum torquent semper nisl inceptos nisi netus aliquet viverra pharetra, euismod duis blandit vel turpis laoreet sed ut pellentesque efficitur donec ultricies. Dapibus auctor euismod suspendisse mattis erat vestibulum quis, maecenas libero eget morbi dictum congue bibendum, vel cras metus blandit ante eleifend.]]></description>
+			<content:encoded><![CDATA[<p>At litora montes metus dictum torquent semper nisl inceptos nisi netus aliquet viverra pharetra, euismod duis blandit vel turpis laoreet sed ut pellentesque efficitur donec ultricies. Dapibus auctor euismod suspendisse mattis erat vestibulum quis, maecenas libero eget morbi dictum congue bibendum, vel cras metus blandit ante eleifend.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Ni Fi Si Funuwime	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>A WordPress Theme Preview</description>
+	<lastBuildDate>Sun, 29 Aug 2021 07:39:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		By: Sid Ducatelli		</title>
+		<link>./../index.html#comment-24</link>
+
+		<dc:creator><![CDATA[Sid Ducatelli]]></dc:creator>
+		<pubDate>Wed, 14 Apr 2021 03:38:31 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html#comment-24</guid>
+
+					<description><![CDATA[Ante hendrerit tempus augue class vitae vulputate facilisis justo, donec vel nec mus tellus ligula accumsan eros, placerat magnis quis lacinia cras dapibus urna.]]></description>
+			<content:encoded><![CDATA[<p>Ante hendrerit tempus augue class vitae vulputate facilisis justo, donec vel nec mus tellus ligula accumsan eros, placerat magnis quis lacinia cras dapibus urna.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

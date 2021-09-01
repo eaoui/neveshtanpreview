@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Gefosi Vowi Ye Zavozo Gurubo Nelo Sumu	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>A WordPress Theme Preview</description>
+	<lastBuildDate>Wed, 01 Sep 2021 20:13:29 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		By: Tonette Reichler		</title>
+		<link>./../index.html#comment-12</link>
+
+		<dc:creator><![CDATA[Tonette Reichler]]></dc:creator>
+		<pubDate>Sat, 21 Aug 2021 16:47:55 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html#comment-12</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-8&quot;&gt;Martin Muskthel&lt;/a&gt;.
+
+Per luctus interdum congue senectus fermentum phasellus nisi placerat consectetur mus, magna ex eleifend mattis vulputate sit himenaeos donec at, nam vivamus libero ante venenatis aliquet elementum fusce ad.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-8">Martin Muskthel</a>.</p>
+<p>Per luctus interdum congue senectus fermentum phasellus nisi placerat consectetur mus, magna ex eleifend mattis vulputate sit himenaeos donec at, nam vivamus libero ante venenatis aliquet elementum fusce ad.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Martin Muskthel		</title>
+		<link>./../index.html#comment-8</link>
+
+		<dc:creator><![CDATA[Martin Muskthel]]></dc:creator>
+		<pubDate>Wed, 28 Jul 2021 20:57:27 +0000</pubDate>
+		<guid isPermaLink="false">./../index.html#comment-8</guid>
+
+					<description><![CDATA[Parturient vitae nam platea odio duis proin eros urna, amet volutpat himenaeos justo porta gravida turpis, adipiscing class orci nullam egestas magnis mattis.]]></description>
+			<content:encoded><![CDATA[<p>Parturient vitae nam platea odio duis proin eros urna, amet volutpat himenaeos justo porta gravida turpis, adipiscing class orci nullam egestas magnis mattis.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
